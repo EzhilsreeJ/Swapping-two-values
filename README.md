@@ -26,7 +26,7 @@ a=b
 b=c
 print("Swapped values are:",a,b)```
 
-#OUTPUT:
+##OUTPUT:
 ![Alt text](image.png)
 
 
