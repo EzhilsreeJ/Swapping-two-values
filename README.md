@@ -19,16 +19,18 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```py
+
 a=input()
 b=input()
 c=a
 a=b
 b=c
-print("Swapped values are:",a,b)```
+print("Swapped values are:",a,b)
 
-##OUTPUT:
-![Alt text](image.png)
+```
 
+### OUTPUT:
+![Alt text](OUTPUT.png)
 
 
 ## RESULT:
