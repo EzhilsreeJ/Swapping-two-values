@@ -19,19 +19,19 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```py
-
-a=input()
-b=input()
-c=a
-a=b
-b=c
-print("Swapped values are:",a,b)
+#Program to swap two values.
+#Developed by:Ezhil sree J 
+#RegisterNumber:23012968
+n1,n2=int(input()),int(input())
+temp=n2
+n2=n1
+n1=temp
+print("Swapped values are:",n1,n2)
 
 ```
 
 ### OUTPUT:
-![Alt text](OUTPUT.png)
-
+![OUTPUT](https://github.com/EzhilsreeJ/Swapping-two-values/assets/144870412/72004479-4b63-479f-a37b-84f419f0aa33)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
